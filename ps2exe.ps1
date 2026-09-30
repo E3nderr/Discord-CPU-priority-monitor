@@ -1,0 +1,1 @@
+Invoke-PS2EXE -inputFile "discord-priority-loop.ps1" -outputFile "discord-priority-monitor.exe" -noConsole
